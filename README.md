@@ -1,6 +1,4 @@
-![alt text]("Functions.png")
-
-![alt text]("Main_Preview.png")
+![ScreenShot](/screenshots/Functions.png)
 
 # Mongo1C
 Аналог 1С на Python с MongoDB
