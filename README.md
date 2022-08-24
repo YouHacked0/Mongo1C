@@ -1,5 +1,7 @@
 ![ScreenShot](/screenshots/Functions.png)
 
+![ScreenShot](/screenshots/Main_Preview.png)
+
 # Mongo1C
 Аналог 1С на Python с MongoDB
 
