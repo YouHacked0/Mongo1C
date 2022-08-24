@@ -216,7 +216,7 @@ def settings():
     settingsurl.pack()
 
 
-def ids():
+#def ids():
 
 
 def main():
@@ -249,8 +249,8 @@ def main():
     mongourl = "localhost:27017"
     collections = pymongo.MongoClient(mongourl)["Mongo1C"]["Mongo1C Premium"]
     coll = pymongo.MongoClient(mongourl)["Mongo1C"]["Mongo1C Data"]
-    if coll.find({}) != {}:
-        ids = coll.find({})[0]['ids']
+    #if coll.find({}) != {}:
+    #    ids = coll.find({})[0]['ids']
 
 
     root.mainloop()
